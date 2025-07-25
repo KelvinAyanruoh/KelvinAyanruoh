@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/KelvinAyanruoh/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/KelvinAyanruoh/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/KelvinAyanruoh/ticket-lifecycle)
-  - [User account lockout, reset password, and observe logs in DC](https://github.com/KelvinAyanruoh/active-directory-users)
+  - [User account lockout,Group policy, reset password, and observe logs in DC](https://github.com/KelvinAyanruoh/active-directory-users)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KelvinAyanruoh/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KelvinAyanruoh/azure-network-protocols)
